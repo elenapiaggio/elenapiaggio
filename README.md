@@ -7,7 +7,7 @@ const elenapiaggio = {
   code: [Javascript, HTML, CSS, Java],
   tools: [React, Node, Styled-Components, SpringBoot],
   architecture: ["microservices", "event-driven"],
- challenge: "I am learning spring boot from scratch"
+  challenge: "I am learning spring boot from scratch"
 }
 ```
 
