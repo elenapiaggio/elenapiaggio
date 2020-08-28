@@ -13,7 +13,7 @@ const elenapiaggio = {
 
 You can find me :earl:
 - [Linkedin](https://www.linkedin.com/in/elena-piaggio/)
-- [Twitter](https://twitter.com/helenaMercury)
+- [GitHub](https://github.com/elenapiaggio)
 
 <!--
 **elenapiaggio/elenapiaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
