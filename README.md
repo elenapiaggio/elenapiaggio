@@ -1,6 +1,6 @@
 ### Hi, I'am Elena 👋🏾 👩🏾‍💻 
 
-![ReadmeForGithubProfile](https://user-images.githubusercontent.com/43441336/90563788-95109700-e1a4-11ea-9b6d-044be3470495.png)
+![ReadmeForGithubProfile](https://user-images.githubusercontent.com/43441336/192895148-26e83a32-2b34-4a3b-87db-4bc1499f5ad7.png)
 ```javascript
 const elenapiaggio = {
   pronouns: "she" | "her",
