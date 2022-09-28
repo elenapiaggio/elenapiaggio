@@ -4,10 +4,10 @@
 ```javascript
 const elenapiaggio = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Java],
-  tools: [React, Node, Styled-Components, SpringBoot],
+  code: [Java, JavaScript, HTML, CSS],
+  tools: [SpringBoot, Postman, Keycloak],
   architecture: ["microservices", "event-driven"],
-  challenge: "I am learning Spring Boot from scratch"
+  challenge: "I am learning VUE from scratch"
 }
 ```
 
